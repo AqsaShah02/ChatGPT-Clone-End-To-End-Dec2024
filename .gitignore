@@ -1,0 +1,18 @@
+# Ignore the .env file
+.env
+
+# Ignore __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment and dependency files
+venv/
+.DS_Store
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore IDE files (e.g., VS Code)
+.vscode/
