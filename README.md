@@ -4,8 +4,7 @@
 A ChatGPT clone designed primarily for learning API integration, UI cloning, and connecting a chatbot backend with MongoDB. This project uses the OpenAI API (December 2024 version) for responses.
 
 ---
-![Screenshot 2025-01-08 194152](https://github.com/user-attachments/assets/3e2482ba-80e9-4597-a2aa-083975466c05)
-![Screenshot 2025-01-08 193813](https://github.com/user-attachments/assets/4e55eff6-a936-4841-8504-d646ac0aa9ed)
+
 
 ![Screenshot 2025-01-08 193813](https://github.com/user-attachments/assets/2da632dd-bb48-411e-b82b-ba0705df4440)
 ![Screenshot 2025-01-08 194152](https://github.com/user-attachments/assets/113f56b4-48b6-4c6e-9ca2-5d927b83b027)
